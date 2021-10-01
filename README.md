@@ -1,7 +1,7 @@
 # Description
 This repository contains the dataset for the paper:
 
-- J. C. S. Santos, A. Peruma, M. Mirakhorli, M. Galstery, J. V. Vidal and A. Sejfia, "Understanding Software Vulnerabilities Related to Architectural Security Tactics: An Empirical Investigation of Chromium, PHP and Thunderbird," 2017 IEEE International Conference on Software Architecture (ICSA), Gothenburg, 2017, pp. 69-78.
+- J. C. S. Santos, A. Peruma, M. Mirakhorli, M. Galster, J. V. Vidal and A. Sejfia, "Understanding Software Vulnerabilities Related to Architectural Security Tactics: An Empirical Investigation of Chromium, PHP and Thunderbird," 2017 IEEE International Conference on Software Architecture (ICSA), Gothenburg, 2017, pp. 69-78.
 
 ```
 @inproceedings{7930201, 
